@@ -1,0 +1,26 @@
+[
+    {
+        "img":"../assets/images/travel1.jpg",
+        "alt": "Calabar Resort",
+        "name": "Calabar Resort",
+        "button": "View Destination"
+    },
+    {
+        "img":"../assets/images/travel2.jpg",
+        "alt": "Lagos Resort",
+        "name": "Lagos Resort",
+        "button": "View Destination"
+    },
+    {
+        "img":"../assets/images/travel3.jpg",
+        "alt": "Abuja Resort",
+        "name": "Abuja Resort",
+        "button": "View Destination"
+    },
+    {
+        "img":"../assets/images/travel4.jpg",
+        "alt": "Portharcourt Resort",
+        "name": "Portharcourt Resort",
+        "button": "View Destination"
+    }
+]
